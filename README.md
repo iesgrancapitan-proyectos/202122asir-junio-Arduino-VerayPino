@@ -33,7 +33,7 @@ Realmente el Rover no tiene nigún uso en específico, simplemente sigue un patr
 ## 3.2 IoT Kit
 ### 3.2.1. Alarma de Seguridad para el Hogar
 El uso de este proyecto es simple, como su propio nombre indica sirve como una medida de seguridad para el hogar, este proyecto detecta movimiento y genera una alarma al detectar el movimiento, al detectarlo el sensor emitirá una luz roja a modo de alarma.
-###3.2.1. Estación Meteorológica
+### 3.2.1. Estación Meteorológica
 Este proyecto se usa para recoger datos meteorológicos como la temperatura, humedad, presión ... Este proyecto incluye las piezas necesarias para montar un Carrier, una pequeña plataforma en la cual dependiendo del botón que pulsemos nos mostrará el valor de un sensor o de otro.
 
 
