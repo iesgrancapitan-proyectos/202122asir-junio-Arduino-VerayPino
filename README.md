@@ -7,7 +7,7 @@ No se hace falta que tengamos conocimientos avanzados sobre Arduino y MATLAB, ya
 
 
 # 2. Despliegue
-Nuestro proyecto se llevará a cabo en 4 fases:
+Nuestro proyecto se llevará a cabo en tres fases:
 
 ## 2.1. Investigación de los kits
 La primera fase de nuestro es la investigación de ambos kits, sus sensores, placas, dispositivos y posibles proyectos que ofrecen, con el objetivo de finalmente decantarnos por el proyecto a llevar a cabo de cada kit.
@@ -19,7 +19,7 @@ Tras estudiar los proyectos de este kit nos decantamos por el Rover controlado p
 ## 2.3 IoT Kit
 ### 2.3.1. Alarma de Seguridad para el Hogar
 Al igual que en la fase en la fase anterior tras el estudio de los sensores y de las posibilidades que ofrece el kit, la Alarma del Hogar es uno de nuestros proyectos elegidos de este kit, este proyecto se basa en la utilización del sensor de proximidad, el cual genera una alarma al detectar movimiento. Estas pruebas están explicadas en profundidad en la Wiki.
-##2.3.2. Estación Meteorológica
+## 2.3.2. Estación Meteorológica
 La siguiente fase del proyecto es hacer la Estación Meteorológica, con este proyecto usaremos prácticamente todos los sensores del kit, excepto el sensor de proximidad que hemos usado en la Alarma del Hogar. La Estación Meteorológica tiene los sensores de humedad, temperatura, presión y luminosidad, estos sensores permiten recoger sus datos respectivos y mostrarlos en la pantalla LCD que incluye el kit, también hemos usado un Webhook que permite la recogida en tiempo real de los datos en una hoja de Google Sheets, y hemos hecho una macro en el propio Google Sheets con el objetivo de arreglar algunos fallos que tiene la recogida de datos y poder filtrar dichos datos. Estas pruebas están explicadas en profundidad en la Wiki.
 
 
