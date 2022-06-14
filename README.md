@@ -1,8 +1,10 @@
 # 1. Descripción del proyecto
-Nuestro proyecto trata de un Rover controlado con el móvil, este será programado para que siga caminos, mueva objetos con una carretilla elevadora y evite obstáculos. También incluiremos una serie de sensores en el Rover como el sensor de luz del Kit IoT de Arduino.
-
 Los requisitos previos son sencillos, necesitaremos disponer de los dos kits de los cuales hemos hablado en la introducción, el Engineering Kit Rev 2 y el IoT Kit.
 No se hace falta que tengamos conocimientos avanzados sobre Arduino y MATLAB, ya que ambos kits contienen tanto el material como la información necesaria para ser construidos sin tener que enfrentarnos a grandes problemas, como en cualquier proyecto si que encontraremos pequeños problemas que tendremos que ir solucionando poco, algo que nos ayudará a entender mejor tanto Arduino como MATLAB.
+## 1.1. Engineering Kit Rev 2
+Nuestro proyecto con este kit trata de un Rover controlado, este será programado para que siga caminos, mueva objetos con una carretilla elevadora y evite obstáculos.
+#1.2. IoT Kit
+Con este kit haremos dos proyectos, la Alarma para el Hogar la cual nos permitirá detectar movimiento en casa para generar una alarma si este detecta; y la Estación Meteorológica la cual recogerá diversos datos meteorológicos y los mostrará en la pantalla LCD del kit.
 
 
 
