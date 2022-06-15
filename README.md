@@ -1,5 +1,5 @@
 # 1. Descripción del proyecto
-Nuestro proyecto se basa en la utilización de dos kits de Arduino, el Arduino Engineering Kit Rev 2 y el Arduino IoT Kit. Estos kits proponen diferentes proyectos de los cuales nosotros tendremos que investigar y estudiar los sensores que utilizan y así poder decantarnos por los proyectos que nos parecen más interesantes para llevarlos a cabo.
+Nuestro proyecto se basa en la utilización de dos kits de Arduino, el Arduino Engineering Kit Rev 2 y el Arduino IoT Kit. Estos kits proponen diferentes proyectos de los cuales nosotros tendremos que investigar y estudiar los sensores que utilizan y así poder decantarnos por los proyectos que nos parecen más interesantes para llevarlos a cabo. En este proyecto aprenderemos código de Arduino, MATLAB, Simulink, Arduino IoT Cloud ...
 
 ## 1.1. Engineering Kit Rev 2
 Nuestro proyecto con este kit trata de un Rover controlado, este será programado para que siga caminos, mueva objetos con una carretilla elevadora y evite obstáculos.
