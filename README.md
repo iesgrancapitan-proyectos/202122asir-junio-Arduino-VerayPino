@@ -3,7 +3,7 @@ Nuestro proyecto se basa en la utilización de dos kits de Arduino, el Arduino E
 
 ## 1.1. Engineering Kit Rev 2
 Nuestro proyecto con este kit trata de un Rover controlado, este será programado para que siga caminos, mueva objetos con una carretilla elevadora y evite obstáculos.
-#1.2. IoT Kit
+## 1.2. IoT Kit
 Con este kit haremos dos proyectos, la Alarma para el Hogar la cual nos permitirá detectar movimiento en casa para generar una alarma si este detecta; y la Estación Meteorológica la cual recogerá diversos datos meteorológicos y los mostrará en la pantalla LCD del kit.
 
 
