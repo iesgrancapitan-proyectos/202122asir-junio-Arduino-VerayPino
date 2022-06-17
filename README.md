@@ -9,21 +9,24 @@ Con este kit haremos dos proyectos, la Alarma para el Hogar la cual nos permitir
 
 
 # 2. Despliegue
-Nuestro proyecto se llevará a cabo en tres fases:
+## 2.1. Engineering Kit Rev 2
+Todas estas herramientas están explicadas en profundidad en la [Wiki](https://github.com/iesgrancapitan-proyectos/202122asir-junio-Arduino-VerayPino/wiki)
+### 2.1.1. Hardware
+El propio kit ya incluye todo el hardware que necesitamos para realizar el proyecto.
+### 2.1.2. Software
+Para llevar a cabo cualquiera de los proyectos necesitamos instalar Matlab con el plugin de Simulink, este programa tiene una prueba gratis de un mes, tras este período el programa se convierte en un programa de pago, el kit trae una licencia asociada para Matlab.
+### 2.1.3. Otros
+También necesitamos abrirnos una cuenta en Arduino y vincular el código del kit para tener acceso a los tutoriales y explicaciones del propio kit.
 
-## 2.1. Investigación de los kits
-La primera fase de nuestro es la investigación de ambos kits, sus sensores, placas, dispositivos y posibles proyectos que ofrecen, con el objetivo de finalmente decantarnos por el proyecto a llevar a cabo de cada kit.
-
-## 2.2. Engineering Kit Rev 2
-### 2.2.1. Rover controlado por Cámara Web
-Tras estudiar los proyectos de este kit nos decantamos por el Rover controlado por cámara web, en esta fase probaremos el movimiento lineal del Rover, el movimiento de la carretilla elevadora y el movimiento del Rover siguiendo una ruta preestablecida. Estas pruebas están explicadas en profundidad en la Wiki.
-
-## 2.3 IoT Kit
-### 2.3.1. Alarma de Seguridad para el Hogar
-Al igual que en la fase en la fase anterior tras el estudio de los sensores y de las posibilidades que ofrece el kit, la Alarma del Hogar es uno de nuestros proyectos elegidos de este kit, este proyecto se basa en la utilización del sensor de proximidad, el cual genera una alarma al detectar movimiento. Estas pruebas están explicadas en profundidad en la Wiki.
-## 2.3.2. Estación Meteorológica
-La siguiente fase del proyecto es hacer la Estación Meteorológica, con este proyecto usaremos prácticamente todos los sensores del kit, excepto el sensor de proximidad que hemos usado en la Alarma del Hogar. La Estación Meteorológica tiene los sensores de humedad, temperatura, presión y luminosidad, estos sensores permiten recoger sus datos respectivos y mostrarlos en la pantalla LCD que incluye el kit, también hemos usado un Webhook que permite la recogida en tiempo real de los datos en una hoja de Google Sheets, y hemos hecho una macro en el propio Google Sheets con el objetivo de arreglar algunos fallos que tiene la recogida de datos y poder filtrar dichos datos. Estas pruebas están explicadas en profundidad en la Wiki.
-
+## 2.2 IoT Kit
+Todas estas herramientas están explicadas en profundidad en la [Wiki](https://github.com/iesgrancapitan-proyectos/202122asir-junio-Arduino-VerayPino/wiki)
+### 2.2.1. Hardware
+El propio kit ya incluye todo el hardware que necesitamos para realizar el proyecto.
+### 2.2.2. Software
+Arudino Create Agent es un software que enlaza la placa Arduino conectada al ordenador con Arduino Cloud y también necesitamos el programa Arduino base para actualizar la placa en caso de que lo necesite.
+### 2.2.3. Otros
+También necesitamos abrirnos una cuenta en Arduino y vincular el código del kit para tener acceso a los tutoriales y explicaciones del propio kit, con esta cuenta también usaremos Arduino IoT Cloud y Arduino Web Editor, para visualizar datos en la nube y modificar código respectivamente.
+Finalmente usaremos una cuenta en [IFTTT]([https://www.youtube.com/](https://ifttt.com/explore)) para enlazar el Webhook con Arduino y Google Sheets.
 
 
 # 3. Uso
