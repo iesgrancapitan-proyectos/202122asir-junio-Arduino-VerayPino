@@ -10,7 +10,7 @@ Con este kit haremos dos proyectos, la Alarma para el Hogar la cual nos permitir
 
 # 2. Despliegue
 ## 2.1. Engineering Kit Rev 2
-Todas estas herramientas están explicadas en profundidad en la [Wiki](https://github.com/iesgrancapitan-proyectos/202122asir-junio-Arduino-VerayPino/wiki)
+Todas estas herramientas están explicadas en profundidad en la [Wiki](https://github.com/iesgrancapitan-proyectos/202122asir-junio-Arduino-VerayPino/wiki).
 ### 2.1.1. Hardware
 El propio kit ya incluye todo el hardware que necesitamos para realizar el proyecto.
 ### 2.1.2. Software
@@ -19,7 +19,7 @@ Para llevar a cabo cualquiera de los proyectos necesitamos instalar Matlab con e
 También necesitamos abrirnos una cuenta en Arduino y vincular el código del kit para tener acceso a los tutoriales y explicaciones del propio kit.
 
 ## 2.2 IoT Kit
-Todas estas herramientas están explicadas en profundidad en la [Wiki](https://github.com/iesgrancapitan-proyectos/202122asir-junio-Arduino-VerayPino/wiki)
+Todas estas herramientas están explicadas en profundidad en la [Wiki](https://github.com/iesgrancapitan-proyectos/202122asir-junio-Arduino-VerayPino/wiki).
 ### 2.2.1. Hardware
 El propio kit ya incluye todo el hardware que necesitamos para realizar el proyecto.
 ### 2.2.2. Software
